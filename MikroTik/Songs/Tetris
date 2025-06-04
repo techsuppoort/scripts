@@ -1,0 +1,240 @@
+#tetris title theme for mikrotik by dustcat
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#B5
+:beep frequency=987 length=100ms
+:delay 400ms
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 400ms
+
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 200ms
+#Eb5
+:beep frequency=622 length=100ms
+:delay 300ms
+#E5
+:beep frequency=659 length=100ms
+:delay 200ms
+#E5
+:beep frequency=659 length=100ms
+:delay 340ms
+#E5
+:beep frequency=659 length=100ms
+:delay 200ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 400ms
+
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#C6
+:beep frequency=1046 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#B5
+:beep frequency=987 length=100ms
+:delay 400ms
+
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#C6
+:beep frequency=1046 length=100ms
+:delay 200ms
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#C6
+:beep frequency=1046 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 400ms
+
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#E5
+:beep frequency=659 length=100ms
+:delay 200ms
+#E5
+:beep frequency=659 length=100ms
+:delay 400ms
+
+#E5
+:beep frequency=659 length=100ms
+:delay 200ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 200ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 400ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 400ms
+
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 400ms
+
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#B5
+:beep frequency=987 length=100ms
+:delay 400ms
+
+#B5
+:beep frequency=987 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 200ms
+#A5
+:beep frequency=880 length=100ms
+:delay 400ms
+
+#F#5
+:beep frequency=740 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#G5
+:beep frequency=784 length=100ms
+:delay 400ms
+
+#G5
+:beep frequency=784 length=100ms
+:delay 200ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 200ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 300ms
+#Eb5
+:beep frequency=622 length=100ms
+:delay 215ms
+#E5
+:beep frequency=659 length=100ms
+:delay 400ms
+
+#B5
+:beep frequency=987 length=100ms
+:delay 75ms
+#A5
+:beep frequency=880 length=100ms
+:delay 75ms
+#G5
+:beep frequency=784 length=100ms
+:delay 75ms
+#F#5
+:beep frequency=740 length=100ms
+:delay 75ms
+#E5
+:beep frequency=659 length=100ms
+:delay 75ms
+#Eb5
+:beep frequency=622 length=100ms
+:delay 100ms
+
+#E6
+:beep frequency=1318 length=100ms
+:delay 400ms
+
+#B4
+:beep frequency=439 length=100ms
+:delay 200ms
+
+#E3
+:beep frequency=161 length=100ms
+:delay 200ms
