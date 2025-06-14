@@ -1,0 +1,16 @@
+server {
+        listen 80;
+        server_name 127.0.0.1;
+
+        location ~ ^/api/([^/]+)(/[^?]*)? {
+        set $script $1;
+        set $extra $2;
+
+        fastcgi_pass unix:/var/run/fcgiwrap.socket;  # Important: This line uses fcgiwrap
+        include fastcgi_params;
+
+        fastcgi_param SCRIPT_FILENAME /srv/script/$script.sh;
+        fastcgi_param SCRIPT_NAME /$script.sh;
+        fastcgi_param PATH_INFO $extra;
+        }
+}
