@@ -1,5 +1,5 @@
-** This is a simple API written in bash. **
-** It can create a user, authenticate them and perform basic tasks on them. **
+This is a simple API written in bash.
+It can create a user, authenticate them and perform basic tasks on them.
 
 # Example:
 
