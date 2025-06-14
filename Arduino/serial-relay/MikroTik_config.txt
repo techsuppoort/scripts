@@ -1,0 +1,14 @@
+/port pr
+Flags: I - INACTIVE
+Columns: DEVICE, NAME, CHANNELS, USED-BY, BAUD-RATE
+#   DEVICE  NAME     CHANNELS  USED-BY        BAUD-RATE
+0 I         serial0         1                 auto     
+1   1-1     usb2            1                 auto
+/system console add port=usb2 disabled=yes
+/system console pr  
+Flags: * - DEFAULT; X - DISABLED
+Columns: PORT, TERM
+#    PORT     TERM 
+0 *  serial0  vt102
+1  X usb2     vt102
+/port remote-access add port=usb2 protocol=rfc2217 tcp-port=56000
